@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'Exo';
+  font-style: italic;
+  font-weight: 100;
+  src: url(https://fonts.gstatic.com/s/exo/v11/4UafrEtFpBISdmSt-MY2ehbO95t040FWOXYo.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Exo';
+  font-style: normal;
+  font-weight: 100;
+  src: url(https://fonts.gstatic.com/s/exo/v11/4UaZrEtFpBI4f1ZSIK9d4LjJ4lM2OwRmPg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Gaegu';
+  font-style: normal;
+  font-weight: 300;
+  src: url(https://fonts.gstatic.com/s/gaegu/v8/TuGSUVB6Up9NU57nicw86MM.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Ibarra Real Nova';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/ibarrarealnova/v5/sZlsdQiA-DBIDCcaWtQzL4BZHoiDkH5CH9yb5n3ZFmKopyiubzx7WQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Ibarra Real Nova';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/ibarrarealnova/v5/sZlSdQiA-DBIDCcaWtQzL4BZHoiDundw4ATyjed3EXdg5PDqXzs.ttf) format('truetype');
+}
